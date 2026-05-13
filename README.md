@@ -2,6 +2,13 @@
 
 Program to check server info of various games
 
+## Dependencies
+* requests
+* json
+* os
+* sys
+* pick
+
 ## game servers it can currently check
 * minecraft
 * ring racers
